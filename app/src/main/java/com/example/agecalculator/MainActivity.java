@@ -13,7 +13,7 @@ import java.util.Calendar;
 public class MainActivity extends AppCompatActivity {
 
     //create instance variables
-    TextView tvSh ;
+    TextView tvSh , tvSh2 ;
     Button btnCalc;
     EditText etYear;
 
